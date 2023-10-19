@@ -15,35 +15,40 @@ Connect with us if your local grid can use an inspection system like this via th
 <table>
   <tr>
     <td>
+      <p>Stephen Wang</p>
       <a href="mailto:stephen@sxwang.dev">
         <img src="/assets/stephen.png" />
         <p>stephen@sxwang.dev</p>
       </a>
     </td>
     <td>
-      <a href="mailto:stephen@sxwang.dev">
+      <p>Neil Fernandes</p>
+      <a href="neilfabregas@gmail.com">
         <img src="/assets/neil.png" />
-        <p>stephen@sxwang.dev</p>
+        <p>neilfabregas@gmail.com</p>
       </a>
     </td>
     <td>
-      <a href="mailto:stephen@sxwang.dev">
+      <p>Lucas Arzoumanian</p>
+      <a href="mailto:lukemon4@gmail.com">
         <img src="/assets/lucas.png" />
-        <p>stephen@sxwang.dev</p>
+        <p>lukemon4@gmail.com</p>
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="mailto:stephen@sxwang.dev">
+      <p>Samuel Sun</p>
+      <a href="mailto:samueldjsun@gmail.com">
         <img src="/assets/sam.png" />
-        <p>stephen@sxwang.dev</p>
+        <p>samueldjsun@gmail.com</p>
       </a>
     </td>
     <td>
-      <a href="mailto:stephen@sxwang.dev">
+      <p>Josh Cai</p>
+      <a href="mailto:joshdoesstuff4fun@gmail.com">
         <img src="/assets/josh.png" />
-        <p>stephen@sxwang.dev</p>
+        <p>joshdoesstuff4fun@gmail.com</p>
       </a>
     </td>
   </tr>
@@ -55,5 +60,6 @@ table {
 }
 img {
   width: 100px;
+  margin-bottom: 10px;
 }
 </style>
