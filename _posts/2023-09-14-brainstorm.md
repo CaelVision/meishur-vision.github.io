@@ -12,7 +12,7 @@ Automating the process with robots or other technologies will improve reliabilit
 
 # Mind-directed-graph-Map
 
-![Image Placeholder](image.jpg)
+![Brainstorm Mindmap](/assets/brainstorm.png)
 
 # Conclusions
 
