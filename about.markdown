@@ -23,32 +23,32 @@ Connect with us if your local grid can use an inspection system like this via th
     </td>
     <td>
       <p>Neil Fernandes</p>
-      <a href="neilfabregas@gmail.com">
+      <a href="n24fernandes@uwaterloo.ca">
         <img src="/assets/neil.png" />
-        <p>neilfabregas@gmail.com</p>
+        <p>n24fernandes@uwaterloo.ca</p>
       </a>
     </td>
     <td>
       <p>Lucas Arzoumanian</p>
-      <a href="mailto:lukemon4@gmail.com">
+      <a href="mailto:larzoumanian@uwaterloo.ca">
         <img src="/assets/lucas.png" />
-        <p>lukemon4@gmail.com</p>
+        <p>larzoumanian@uwaterloo.ca</p>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <p>Samuel Sun</p>
-      <a href="mailto:samueldjsun@gmail.com">
+      <a href="mailto:samuel.sun@uwaterloo.ca">
         <img src="/assets/sam.png" />
-        <p>samueldjsun@gmail.com</p>
+        <p>samuel.sun@uwaterloo.ca</p>
       </a>
     </td>
     <td>
       <p>Josh Cai</p>
-      <a href="mailto:joshdoesstuff4fun@gmail.com">
+      <a href="mailto:jscai@uwaterloo.ca">
         <img src="/assets/josh.png" />
-        <p>joshdoesstuff4fun@gmail.com</p>
+        <p>jscai@uwaterloo.ca</p>
       </a>
     </td>
   </tr>
