@@ -10,56 +10,57 @@ The drone can inspect the whole line timely by quickly charging in stationary do
 
 We are a group of graduating students from the University of Waterloo Mechatronics Engineering, class of 2024.
 
-Connect with us if your local grid can use an inspection system like this via the [Google Groups email](mailto:tron-capstone-2024@googlegroups.com), or individually as follows.
+Connect with us if your local grid can use an inspection system like this via the [Google Groups email](mailto:tron-capstone-2024@googlegroups.com), or individually by clicking the photos below.
 
-<table>
-  <tr>
-    <td>
-      <p>Stephen Wang</p>
-      <a href="mailto:stephen@sxwang.dev">
-        <img src="/assets/stephen.png" />
-        <p>stephen@sxwang.dev</p>
-      </a>
-    </td>
-    <td>
-      <p>Neil Fernandes</p>
-      <a href="n24fernandes@uwaterloo.ca">
-        <img src="/assets/neil.png" />
-        <p>n24fernandes@uwaterloo.ca</p>
-      </a>
-    </td>
-    <td>
-      <p>Lucas Arzoumanian</p>
-      <a href="mailto:larzoumanian@uwaterloo.ca">
-        <img src="/assets/lucas.png" />
-        <p>larzoumanian@uwaterloo.ca</p>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <p>Samuel Sun</p>
-      <a href="mailto:samuel.sun@uwaterloo.ca">
-        <img src="/assets/sam.png" />
-        <p>samuel.sun@uwaterloo.ca</p>
-      </a>
-    </td>
-    <td>
-      <p>Josh Cai</p>
-      <a href="mailto:jscai@uwaterloo.ca">
-        <img src="/assets/josh.png" />
-        <p>jscai@uwaterloo.ca</p>
-      </a>
-    </td>
-  </tr>
-</table>
+
+<div class="grid">
+  <div class="card">
+    <p>Stephen Wang</p>
+    <a href="mailto:stephen@sxwang.dev">
+      <img src="/assets/stephen.png" />
+    </a>
+  </div>
+  <div class="card">
+    <p>Neil Fernandes</p>
+    <a href="mailto:n24fernandes@uwaterloo.ca">
+      <img src="/assets/neil.png" />
+    </a>
+  </div>
+  <div class="card">
+    <p>Lucas Arzoumanian</p>
+    <a href="mailto:larzoumanian@uwaterloo.ca">
+      <img src="/assets/lucas.png" />
+    </a>
+  </div>
+  <div class="card">
+    <p>Samuel Sun</p>
+    <a href="mailto:samuel.sun@uwaterloo.ca">
+      <img src="/assets/sam.png" />
+    </a>
+  </div>
+  <div class="card">
+    <p>Josh Cai</p>
+    <a href="mailto:jscai@uwaterloo.ca">
+      <img src="/assets/josh.png" />
+    </a>
+  </div>
+</div>
 
 <style>
-table {
-  text-align: center;
-}
 img {
   width: 100px;
   margin-bottom: 10px;
+}
+.grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.grid p {
+  margin-bottom: 6px;
+}
+.card {
+  text-align: center;
+  margin: 2%;
 }
 </style>
