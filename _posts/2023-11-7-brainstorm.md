@@ -12,6 +12,8 @@ Our man Lucas has been on a mission to crack the code of the perfect VTOL glider
 
 <img src="/assets/CaelConcepts.jpg" />
 
+Lucas' Glider sketches and ideas (circa. 2023)
+
 
 While Lucas was busy sketching the future of flight, Stephen was on a shopping spree that would make any tech geek jealous. He's been spec-ing out parts for the test drone like it's a shopping list for the coolest DIY project ever. And guess what? The parts arrived on the same day! It's like Christmas came early for the CaelVision team. Spoiler alert: Stephen might just be the real-life Santa Claus of drone components.
 
