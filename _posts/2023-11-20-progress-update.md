@@ -28,7 +28,7 @@ And speaking of heart-skipping moments, Joshua took a deep dive into the ArduPil
 
 Caelvision's little brother (circa Nov,2023)
 
-Now, let's talk about Neil. This guy has been on a mission – a computer vision mission. He stumbled upon RoboFlow, a treasure trove for computer vision enthusiasts. With data from IEEE and Kaggle, he armed himself to the teeth with ceramic insulators (yes, porcelain and glass, the unsung heroes of the tech world). After a bit of machine learning magic, Neil unveiled the model predictions – not perfect, but hey, we're getting there! It's like teaching a drone to see the world in high definition – baby steps, right?
+Now, let's talk about Neil. This guy has been on a mission – a computer vision mission. He stumbled upon RoboFlow, a treasure trove for computer vision enthusiasts. With data from IEEE and Kaggle, he armed himself to the teeth with ceramic insulators (porcelain and glass). After a bit of machine learning magic, Neil unveiled the model predictions – not perfect, but hey, we're getting there! It's like teaching a drone to see the world in high definition – baby steps, right?
 
 <div class="img">
 <img src="/assets/prediction.png" />
