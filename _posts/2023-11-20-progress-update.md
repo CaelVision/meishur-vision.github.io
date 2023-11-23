@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Progress Update 2"
-date: 2023-11-15 11:00:00 -0400
+date: 2023-11-20 11:00:00 -0400
 categories: Ideas Meeting
 ---
 Hey there, readers! Welcome back to another round of updates from our dynamic team. We've been buzzing with excitement, and we can't wait to spill the beans on what's been happening behind the scenes.
@@ -24,14 +24,15 @@ And speaking of heart-skipping moments, Joshua took a deep dive into the ArduPil
 
 Now, let's talk about Neil. This guy has been on a mission – a computer vision mission. He stumbled upon RoboFlow, a treasure trove for computer vision enthusiasts. With data from IEEE and Kaggle, he armed himself to the teeth with ceramic insulators (porcelain and glass). After a bit of machine learning magic, Neil unveiled the model predictions – not perfect, but hey, we're getting there! It's like teaching a drone to see the world in high definition – baby steps, right?
 
-<img src="/assets/prediction.png" />
+<p class="center"><img src="/assets/prediction.png" /></p>
 
-Prediction from Neil's Roboflow experiments (circa Nov,2023)
+<p class="center">Prediction from Neil's Roboflow experiments (circa Nov,2023)</p>
 
 Hold your applause because Lucas is in the spotlight next. This week, he channeled his inner aeronautical genius and crafted a VTOL aircraft that's turning heads (virtually, for now). We're talking meticulous calculations, the best aerofoil in town, and a promise of a CAD design so beautiful, it might just bring a tear to your eye. Unfortunately, you'll have to exercise some patience and wait for our upcoming Final Design Presentations – consider it a suspenseful cliffhanger. For now, you can see team Caelvision in the wee hours of the morning :)
 
 <img src="/assets/teamTired.png" />
 
+<p class="center"> Increadibly tired team 42 </p>
 So, dear readers, mark your calendars for November 27th, 2023 – the day Caelvision takes center stage at E7-2409 from 3:30 pm onwards. Trust us; it's going to be a showstopper. We'll see you there, with drones, flowcharts, and aeronautical wonders in tow! Get ready for the future because Caelvision is soaring to new heights, one drone at a time. Until then, stay curious and keep those propellers spinning! 🚁✨
 
 <style>

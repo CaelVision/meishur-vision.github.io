@@ -24,6 +24,9 @@ On the sidelines of our crafting table, Neil and Stephen embark on a pixelated q
 
 In the heart of our crafting guild, Samuel and Lucas, the master glider crafters, strategize and plan. Blueprints and schematics scatter like enchanted dust as they work towards creating the ultimate glider. The plan? Craft the glider and pass it to Neil, the redstone sorcerer, for a  CFD analysis. Will it soar like a pixelated dragon? Only time will tell!
 
+<img src="/assets/IMG_8930.HEIC" />
+
+
 🌟 Final Build Countdown: Crafting for the Grand Presentation
 
 As the Crafting Guild races towards the 20th of November, 2023, they meticulously place each pixel, ensuring all updates align with the grand design. Brace yourselves for a adventure filled with creativity and innovation—the pixelated universe awaits with bated breath!
