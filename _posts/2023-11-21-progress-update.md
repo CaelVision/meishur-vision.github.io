@@ -17,11 +17,11 @@ Let's take a moment to appreciate the artistic genius behind MeishurVision – L
 
 <img src="/assets/VTOL Desig Coupled.png" />
 
-<p class="center">Project MeishurVision(circa Nov, 2023)</p>
+<p class="center">Project MeishurVision (circa Nov, 2023)</p>
 
 But the adventure doesn't end here! MeishurVision is about to go through a makeover extravaganza. Neil and Lucas are the design wizards, ready to sprinkle their magic on the VTOL, while Josh and Stephen are gearing up for drone acrobatics that'll put a smile on anyone's face.
 
-Stay tuned, folks – because when it comes to innovation, one design is just the beginning! Stay MeishurVision friends 🚁✨
+Stay tuned, folks – because when it comes to innovation, one design is just the beginning! Stay Meishur friends 🚁✨
 
 
 
