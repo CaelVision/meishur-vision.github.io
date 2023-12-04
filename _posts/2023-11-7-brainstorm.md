@@ -4,6 +4,7 @@ title: "Team Work Session"
 date: 2023-11-7 11:00:00 -0400
 categories: brainstorm update
 tags: brainstorm update
+excerpt_image: /assets/CaelConcepts.jpg
 ---
 ## Drone Drama: Lucas' Glider, Stephen's Shopping Spree, and Joshua, Samuel, and Neil's Safety Circus!
 

@@ -5,8 +5,7 @@ date: 2023-11-20 11:00:00 -0400
 categories: update
 tags: update
 banner:
-  image: /assets/controls flow chart.png
-excerpt_image: /assets/controls flow chart.png
+  image: /assets/pitchtest.gif
 ---
 Hey there, readers! Welcome back to another round of updates from our dynamic team. We've been buzzing with excitement, and we can't wait to spill the beans on what's been happening behind the scenes.
 

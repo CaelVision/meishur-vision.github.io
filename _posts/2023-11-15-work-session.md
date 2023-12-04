@@ -4,6 +4,7 @@ title: "Progress Update"
 date: 2023-11-15 11:00:00 -0400
 categories: update
 tags: update
+excerpt_image: /assets/IMG_8850.jpg
 ---
 <h2>The Crafting Guild Unites! Pixelated Progress Report 🌈</h2>
 
