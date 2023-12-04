@@ -2,7 +2,8 @@
 layout: post
 title: "Brainstorm"
 date: 2023-09-14 11:00:00 -0400
-categories: idea update
+categories: brainstorm
+tags: brainstorm
 ---
 
 # Problem Statement

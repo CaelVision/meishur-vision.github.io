@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: about
 title: About
-permalink: /about/
+sidebar: []
 ---
+
+## About CaelVision
 
 We present to you CaelVision! An autonomous drone-based solution for power transmission tower inspection.
 A drone navigates along the target transmission line and alerts the repair crew once defective insulators are found.

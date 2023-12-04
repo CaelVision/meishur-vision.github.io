@@ -2,17 +2,22 @@
 layout: post
 title: "Team Work Session"
 date: 2023-11-7 11:00:00 -0400
-categories: Ideas Meeting
+categories: brainstorm update
+tags: brainstorm update
 ---
-# Drone Drama: Lucas' Glider, Stephen's Shopping Spree, and Joshua, Samuel, and Neil's Safety Circus!
+## Drone Drama: Lucas' Glider, Stephen's Shopping Spree, and Joshua, Samuel, and Neil's Safety Circus!
 
 Welcome to the (totally) filler episode of CaelVision's adventures. Today the team went on a mindstorms session to discuss safety procedures, order parts, and pave the path in making CaelVision a reality
-# Off to the drone races
+
+## Off to the drone races
+
 Our man Lucas has been on a mission to crack the code of the perfect VTOL glider. Think of it as the superhero of the drone world—taking off and landing with style. He's been juggling designs like a circus performer, and let's just say, there have been more sketches than a bored high school student's notebook. The team's been throwing around ideas like confetti at a party, trying to decide which design takes the cake. Stay tuned for the grand reveal, folks!
 
 <img src="/assets/CaelConcepts.jpg" />
 
-Lucas' Glider sketches and ideas (circa. 2023)
+<p style="text-align: center;">
+  <i>Lucas' Glider sketches and ideas (circa. 2023)</i>
+</p>
 
 
 While Lucas was busy sketching the future of flight, Stephen was on a shopping spree that would make any tech geek jealous. He's been spec-ing out parts for the test drone like it's a shopping list for the coolest DIY project ever. And guess what? The parts arrived on the same day! It's like Christmas came early for the CaelVision team. Spoiler alert: Stephen might just be the real-life Santa Claus of drone components.
