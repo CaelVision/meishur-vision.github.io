@@ -28,7 +28,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  CaelVision
 
 # Build settings
-theme: jekyll-theme-yat
+# theme: jekyll-theme-yat
+remote_theme: jeffreytse/jekyll-theme-yat
 plugins:
   - jekyll-redirect-from
 
