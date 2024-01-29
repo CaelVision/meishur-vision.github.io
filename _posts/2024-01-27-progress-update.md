@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mark 1 build and major announcement
-date: 2024-01-06 11:00:00 -0400
+date: 2024-01-27 11:00:00 -0400
 categories: update
 tags:
   - update
