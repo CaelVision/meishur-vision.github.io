@@ -1,11 +1,13 @@
 ---
 layout: post
 title: Meishur 2 Test Demo
-date: 2024-01-27 11:00:00 -0400
+date: 2024-02-10 11:00:00 -0400
 categories: update
 tags:
   - update
 author: Neil
+banner:
+  image: /assets/meishur2-testvid-0thumbn.png
 ---
 
 Hello everyone for another update on Meishur 2!
