@@ -6,6 +6,7 @@ categories: update
 tags:
   - update
 author: Neil
+excerpt_image: NO_EXCERPT_IMAGE
 ---
 
 We extend a warm welcome to our latest build log update, accompanied by a significant announcement.
