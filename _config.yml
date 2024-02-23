@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CaelVision - UWaterloo Mechatronics Capstone
+title: Kite - UWaterloo Mechatronics Capstone
 email: tron-capstone-2024@googlegroups.com
 description: >-
   An autonomous, cost-effective solution to transmission tower inspection.
   University of Waterloo Mechatronics Engineering Capstone Class of 2024.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  CaelVision
+github_username:  Kite
 
 # Build settings
 # theme: jekyll-theme-yat

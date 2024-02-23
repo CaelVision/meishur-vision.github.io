@@ -4,7 +4,7 @@
 
 layout: home
 banner: /assets/motorTest.gif
-heading: Project CaelVision
+heading: Project Kite
 subheading: Autonomous Transmission Line Tower Insulator Inspection Using Drones
 ---
 

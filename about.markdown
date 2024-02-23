@@ -4,9 +4,9 @@ title: About
 sidebar: []
 ---
 
-## About CaelVision
+## About Kite
 
-We present to you CaelVision! An autonomous drone-based solution for power transmission tower inspection.
+We present to you Kite! An autonomous drone-based solution for power transmission tower inspection.
 A drone navigates along the target transmission line and alerts the repair crew once defective insulators are found.
 The drone can inspect the whole line timely by quickly charging in stationary docks deployed along the line.
 

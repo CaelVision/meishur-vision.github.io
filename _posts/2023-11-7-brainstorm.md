@@ -8,7 +8,7 @@ excerpt_image: /assets/CaelConcepts.jpg
 ---
 ## Drone Drama: Lucas' Glider, Stephen's Shopping Spree, and Joshua, Samuel, and Neil's Safety Circus!
 
-Welcome to the (totally) filler episode of CaelVision's adventures. Today the team went on a mindstorms session to discuss safety procedures, order parts, and pave the path in making CaelVision a reality
+Welcome to the (totally) filler episode of Kite's adventures. Today the team went on a mindstorms session to discuss safety procedures, order parts, and pave the path in making Kite a reality
 
 ## Off to the drone races
 
@@ -21,7 +21,7 @@ Our man Lucas has been on a mission to crack the code of the perfect VTOL glider
 </p>
 
 
-While Lucas was busy sketching the future of flight, Stephen was on a shopping spree that would make any tech geek jealous. He's been spec-ing out parts for the test drone like it's a shopping list for the coolest DIY project ever. And guess what? The parts arrived on the same day! It's like Christmas came early for the CaelVision team. Spoiler alert: Stephen might just be the real-life Santa Claus of drone components.
+While Lucas was busy sketching the future of flight, Stephen was on a shopping spree that would make any tech geek jealous. He's been spec-ing out parts for the test drone like it's a shopping list for the coolest DIY project ever. And guess what? The parts arrived on the same day! It's like Christmas came early for the Kite team. Spoiler alert: Stephen might just be the real-life Santa Claus of drone components.
 
 *Envisions a sleigh with drone parts instead of presents*
 
@@ -29,7 +29,7 @@ In the midst of all the glider chaos and shopping madness, Joshua, Samuel, and N
 
 *Inserts an image of Neil dramatically checking the weather*
 
-So there you have it, folks—the thrilling tale of Lucas' glider adventures, Stephen's tech shopping spree, and the safety circus led by Joshua, Samuel, and Neil. Will the glider soar to new heights? Will the test drone be the stuff of legends? Will the safety plan be more airtight than a vacuum-sealed pickle jar? Stay tuned, because the CaelVision team is taking drone innovation to new heights, and we're all just along for the ride!
+So there you have it, folks—the thrilling tale of Lucas' glider adventures, Stephen's tech shopping spree, and the safety circus led by Joshua, Samuel, and Neil. Will the glider soar to new heights? Will the test drone be the stuff of legends? Will the safety plan be more airtight than a vacuum-sealed pickle jar? Stay tuned, because the Kite team is taking drone innovation to new heights, and we're all just along for the ride!
 
 
 

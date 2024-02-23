@@ -8,7 +8,7 @@ excerpt_image: /assets/IMG_8850.jpg
 ---
 <h2>The Crafting Guild Unites! Pixelated Progress Report 🌈</h2>
 
-Ahoy, fellow crafters of CaelVision! Today, we unveil the whimsical wonders and pixelated adventures of the past few days in our Minecraft-inspired crafting saga.
+Ahoy, fellow crafters of Kite! Today, we unveil the whimsical wonders and pixelated adventures of the past few days in our Minecraft-inspired crafting saga.
 
 <h2>⚙ Gears and Gizmos: A Redstone Odyssey!</h2>
 
