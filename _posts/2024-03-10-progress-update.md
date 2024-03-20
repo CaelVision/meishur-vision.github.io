@@ -7,12 +7,12 @@ tags:
   - update
 author: Neil
 banner:
-  image: /assets/mag-plot.png
+  image: 
 ---
 
 In this episode of updates with Kite. we have updates from other mechanical maestro, Lucas, who has been tirelessly working on the Dock, heres a sneak peek of what he has been doing to it. He in the midst of fabricating it.
 
-<img src="/assets/meishur-mark2.png" />
+
 
 Meanwhile, Stephen and Neil have started working on the landing portion of the mission planner, by setting up the backend of the vision system, using Aruco marker. The landing pad would have one single Aruco marker that has designated ID, which after being detected, would send MAVlink messages to Meishur (from Joshur) to instruct it to land.
 
