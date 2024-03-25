@@ -1,24 +1,30 @@
 ---
 layout: post
-title: Dock design and competetions updates!
+title: Dock build log!
 date: 2024-03-19 11:00:00 -0400
 categories: update
 tags:
   - update
-author: Neil
+author: Stephen
 banner:
-  image: /assets/aruco-marker.jpeg
+  image: /assets/PXL_20240325_062246493.jpg
 ---
 
-In this episode of updates with Kite. we have updates from other mechanical maestro, Lucas, who has been tirelessly working on the Dock, heres a sneak peek of what he has been doing to it. He in the midst of fabricating it.
+In this update, we have some mechanical updates on the dock Joshur! Lucas has been working tirelessly on Joshur, and has been building it ever since the first conceptual design!
 
+His skill and overall sense of quality can be seen in the images below!
 
+<img src="/assets/PXL_20240325_062246493.jpg" />
 
-Meanwhile, Stephen and Neil have started working on the landing portion of the mission planner, by setting up the backend of the vision system, using Aruco marker. The landing pad would have one single Aruco marker that has designated ID, which after being detected, would send MAVlink messages to Meishur (from Joshur) to instruct it to land. Here is some test footage that they put together!
+<p class="center">Joshur building session with team Kite. Led by Lucas (circa Mar, 2024)</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QJcmCzd7YwI?si=pzyPfQWaIYzj3H0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img src="/assets/PXL_20240325_063400798.jpg" />
 
-In more exciting news, the team put in their submission for the Norman Esch Competetion. Have a sneak peek of our competetion submission!
+<p class="center">Neil making sure Lucas and Josh do their job properly (circa Mar, 2024)</p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3qINzN8QWyI?si=NY3_bUNd8BGHJGBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The VTOL has also been under construction with Sam taking the lead on manufacturing the parts with utmost precision. He has also been putting together a test mock up of Meishur Mk-II!
+
+<img src="/assets/IMG_9985.jpg" />
+
+<p class="center">Test Meishur Mk-II (circa Mar, 2024)</p>
 
