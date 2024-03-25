@@ -20,5 +20,15 @@ Here is the sucessfull build that was done till date.
 
 
 
-
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center {
+  text-align: center;
+  font-style: italic;
+}
+</style>
 

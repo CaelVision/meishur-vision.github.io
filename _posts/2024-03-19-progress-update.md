@@ -28,3 +28,14 @@ The VTOL has also been under construction with Sam taking the lead on manufactur
 
 <p class="center">Test Meishur Mk-II (circa Mar, 2024)</p>
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.center {
+  text-align: center;
+  font-style: italic;
+}
+</style>
