@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ready for Symposium :D
-date: 2024-03-10 11:00:00 -0400
+date: 2024-03-24 11:00:00 -0400
 categories: update
 tags:
   - update
